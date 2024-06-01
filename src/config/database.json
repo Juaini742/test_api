@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u861993382_Ozeraadmin",
+    "password": "adminO123",
+    "database": "test_db",
+    "host": "153.92.15.21",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u861993382_Ozeraadmin",
+    "password": "adminJ123",
+    "database": "u861993382_products_db",
+    "host": "153.92.15.21",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u861993382_Ozeraadmin",
+    "password": "adminJ123",
+    "database": "u861993382_products_db",
+    "host": "153.92.15.21",
+    "dialect": "mysql"
+  }
+}
